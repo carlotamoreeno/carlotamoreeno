@@ -1,25 +1,41 @@
-# Carlota Moreno García
+# Carlota Moreno García ✨
 
-**Technical project delivery · Product discovery · Software engineering**
+**Technical Project Delivery · Product & Software Coordination · AI Applications**
 
-I’m a software engineer with experience translating business needs into software requirements, coordinating development work and delivering software from discovery to production.
+I’m a software engineer with experience in project delivery, product coordination and software development.
 
-## Selected projects
+My background combines business understanding, technical execution and cross-functional coordination. I’m especially interested in digital products, AI applications and technology projects where delivery, prioritisation and stakeholder alignment matter.
 
-These personal and academic projects bring together my interests in AI, software quality and technical decision-making.
+## Featured Projects
 
-### [MIURA-WEB](https://github.com/carlotamoreeno/MIURA-WEB)
+### MIURA — Technical Debt & Decision Support
 
-An academic framework and interactive MVP for assessing technical debt and exploring priorities, capacity and cost scenarios.
+![MIURA screenshot](images/miura.png)
 
-I designed the framework for my Software Engineering final-year project, awarded **Matrícula de Honor**, and developed the web application independently. The application combines a deterministic calculation engine with a separate document-grounded AI assistant.
+Academic framework and interactive application for assessing technical debt and exploring prioritisation scenarios.  
+This project combines software engineering, decision-making and business-oriented analysis through an MVP designed to support technical and strategic conversations.
 
-**Technologies:** TypeScript, Next.js, React, Supabase/pgvector.
+![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-AI-blue)
 
-### [SintonIA](https://github.com/carlotamoreeno/SintonIA)
+[View repository](https://github.com/carlotamoreeno/MIURA-WEB)
 
-A document-based AI assistant that answers questions with source citations. It includes document administration, authentication, roles and conversation history tied to document versions.
+---
 
-I developed the application independently and organised the work in sprints.
+### SintonIA — Document-based AI Assistant
 
-**Technologies:** TypeScript, Next.js, React, OpenAI File Search, Supabase, Auth.js.
+![SintonIA screenshot](images/sintonia.png)
+
+Document-grounded AI assistant designed to answer questions with source-based responses.  
+The project focuses on knowledge organisation, conversational interaction and traceability of information through a structured and versioned document environment.
+
+![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
+
+[View repository](https://github.com/carlotamoreeno/SintonIA)
