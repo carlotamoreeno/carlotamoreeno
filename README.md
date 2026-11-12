@@ -1,16 +1,25 @@
-## Hi there 👋
+# Carlota Moreno García
 
-<!--
-**carlotamoreeno/carlotamoreeno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Technical project delivery · Product discovery · Software engineering**
 
-Here are some ideas to get you started:
+I’m a software engineer with experience translating business needs into software requirements, coordinating development work and delivering software from discovery to production.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected projects
+
+These personal and academic projects bring together my interests in AI, software quality and technical decision-making.
+
+### [MIURA-WEB](https://github.com/carlotamoreeno/MIURA-WEB)
+
+An academic framework and interactive MVP for assessing technical debt and exploring priorities, capacity and cost scenarios.
+
+I designed the framework for my Software Engineering final-year project, awarded **Matrícula de Honor**, and developed the web application independently. The application combines a deterministic calculation engine with a separate document-grounded AI assistant.
+
+**Technologies:** TypeScript, Next.js, React, Supabase/pgvector.
+
+### [SintonIA](https://github.com/carlotamoreeno/SintonIA)
+
+A document-based AI assistant that answers questions with source citations. It includes document administration, authentication, roles and conversation history tied to document versions.
+
+I developed the application independently and organised the work in sprints.
+
+**Technologies:** TypeScript, Next.js, React, OpenAI File Search, Supabase, Auth.js.
